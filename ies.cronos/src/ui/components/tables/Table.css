@@ -1,0 +1,51 @@
+thead Tr:first-child{
+    font-weight: bold;
+    background-color: #abbeaa;
+}
+
+tbody Tr:nth-child(2n){
+    background: #ccc;
+}
+
+button{
+    float: right;
+    width: 100px;
+    height: 40px;
+    margin: 10px 5px 40px 20px;
+}
+
+.bt{
+    display: flex;
+    flex-direction: column;
+    left: 900px;
+    top: 100px;
+    margin-top: 40px;
+}
+.content{
+    display: flex;
+}
+
+.btEdit{
+    background-color: #8497b9;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.btRemove{
+    background-color: #b98484;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+.btEdit:hover{
+    background-color: #8497b9d3;
+    border-radius: 5px;
+    font-weight: bold;
+    border: solid 2px #8497b9;
+}
+.btRemove:hover{
+    background-color: #b98484d2;
+    border-radius: 5px;
+    font-weight: bold;
+    border: solid 2px #b98484;
+}
