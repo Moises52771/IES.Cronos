@@ -40,13 +40,10 @@
 
 **  Abra o PowerShell e vá até o diretório ' /ies.cronos '
 
+**  Em seguida execute o comando ' npm install ', aguarde a instalação de 
+    ' node_modules '
+
 **  Em seguida execute o comando ' npm start '
-
-**  Caso ocorra algum problema para iniciar o frontend delete a pasta ' node_modules '
-
-**  Em seguida execute o comando ' npm install ' dentro do diretorio ' /ies.cronos '
-    aguarde a reinstalação de ' node_modules ' e repita a inicialização
-
 
 ***
 
