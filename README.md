@@ -39,10 +39,10 @@
 
 *   Abra o PowerShell e vá até o diretório ' /ies.cronos '
 
-*   Em seguida execute o comando ' npm install ', aguarde a instalação de 
+*   Em seguida execute o comando `npm install`, aguarde a instalação de 
     ' node_modules '
 
-*   Em seguida execute o comando ' npm start '
+*   Em seguida execute o comando `npm start`
 
 ***
 
