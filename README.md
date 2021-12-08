@@ -14,11 +14,19 @@
 
 
 
-                
-                    Instruções para startar o BackEnd do projeto
+                    Para clonar o projeto  
+                    
+                    
+*   `git clone https://github.com/Moises52771/IES.Cronos.git` 
+
+***
 
 
-*   Suba o dretório API em servidor PHP de sua preferencia
+
+                    Para startar o BackEnd do projeto
+
+
+*   Suba o dretório API em um servidor PHP de sua preferencia
 
 *   A pasta não deve estar dentro de nenhum outro diretório, para não ocorrer nenhum 
     conflito ao tentar acessar o caminho da API, o mesmo deve estar diretamente no 
@@ -34,7 +42,7 @@
 
 
 
-                    Instruções para startar o FrontEnd do projeto
+                    Para startar o FrontEnd do projeto
 
 
 *   Abra o PowerShell e vá até o diretório ' /ies.cronos '
@@ -43,6 +51,9 @@
     ' node_modules '
 
 *   Em seguida execute o comando `npm start`
+
+
+*  Em seu navegador acesse http://localhost:3000 
 
 ***
 
