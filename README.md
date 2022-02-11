@@ -33,7 +33,7 @@
     seu localhost
 
 *   Importe o arquivo ' .sql ' que está no diretório ' database ' no seu phpMyAdmin 
-    ou MySQL Workbench onde ja deve aver uma etrutura de banco de dados criada com o 
+    ou MySQL Workbench onde ja deve aver uma estrutura de banco de dados criada com o 
     nome ' universidade '
 
 ***
